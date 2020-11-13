@@ -2,7 +2,6 @@
 	"name": "Bopomofo Keyboard",
 	"version": "0.01",
 	"description": "Type and copy Bopomofo (Zhuyin) characters",
-	"permissions": ["activeTab"],
 	"browser_action": {
 		"default_popup": "popup.html",
 		"default_icon": {
