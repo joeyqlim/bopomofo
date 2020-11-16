@@ -12,6 +12,9 @@ Bopomofo Keyboard is a lightweight Google Chrome extension that enables users to
  - Pinyin equivalents of each character are displayed to facilitate beginners' learning
 
 ### Installation
+Add [Bopomofo Keyboard](https://chrome.google.com/webstore/detail/bopomofo-keyboard/kpcedobhibknpiaacahhfpfbogikpkek?hl=en&authuser=3) from the Chrome Web Store.
+
+Or, install manually:
 - Clone or download this repo
 - Go to "Manage Extensions" in Google Chrome
 - Toggle Developer mode
